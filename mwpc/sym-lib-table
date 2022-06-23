@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "mwpc")(type "KiCad")(uri "/home/dphan/workspace/tau_mwpc/tau_mwpc_lib/mwpc.kicad_sym")(options "")(descr ""))
+)
