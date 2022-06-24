@@ -1,4 +1,4 @@
-20112010477731269
+20113666533596757
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85609,3 +85609,10 @@ MWPC_HVT_SMD
 0
 64
 32
+mwpc
+Terminal
+
+
+0
+1
+1
